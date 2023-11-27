@@ -1,0 +1,8 @@
+flask==2.0.0
+requests
+pandas
+tensorflow
+gunicorn
+pickle5
+openai
+python-dotenv
