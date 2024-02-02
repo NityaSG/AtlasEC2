@@ -1,7 +1,6 @@
-flask==2.0.0
+flask
 requests
 pandas
 tensorflow
 gunicorn
 openai
-python-dotenv
